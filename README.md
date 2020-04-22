@@ -8,6 +8,7 @@
 * Django==3.0.5
 
 ## Engine Process Steps
+* Run the command from python shell : python manage.py createsuperuser
 * Run the command from python shell : python manage.py makemigrations
 * Run the command from python shell : python manage.py migrate
 * Run the command from python shell : python manage.py runserver
