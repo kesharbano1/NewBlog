@@ -8,9 +8,10 @@
 * Django==3.0.5
 
 ## Engine Process Steps
-* Run the command from python shell : python manage.py createsuperuser
+
 * Run the command from python shell : python manage.py makemigrations
 * Run the command from python shell : python manage.py migrate
+* Run the command from python shell : python manage.py createsuperuser
 * Run the command from python shell : python manage.py runserver
 * Step one: Create two users from admin site
 * Step two : open url (http://127.0.0.1:8000/account/login/)
